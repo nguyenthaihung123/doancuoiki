@@ -8,7 +8,9 @@ Nhiệm vụ:
 -	Cấu hình api(XAMPP)
 -	Code Adapter, xử lý lỗi
 -	Viết báo cáo, test lỗi
+
 Mức độ hoàn thành: 85%
+
 Cấu trúc file: 
 <img width="504" height="1280" alt="image" src="https://github.com/user-attachments/assets/03dbddf9-f6ad-41f2-875f-be5ad32710f3" />
 <img width="558" height="1288" alt="image" src="https://github.com/user-attachments/assets/e8fd288c-e9e3-4002-aa70-c49cddf68bf1" />
